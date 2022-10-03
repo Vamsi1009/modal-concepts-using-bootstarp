@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:red;
+}
+.container-footer{
+
+    background-color: gray;
+    color: whitesmoke;
+    margin:  0px 0px 0px 0px;
+
+}
+.footer {
+    text-align: center;
+    color: darkblue;
+}
+.grid {
+    margin: 20px;
+    background-color: coral;
+}
